@@ -1,0 +1,4 @@
+account-service
+../.idea
+.devspace
+/sqlite.db
